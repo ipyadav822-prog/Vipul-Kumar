@@ -1,0 +1,6 @@
+{
+  "name": "Photo to PageMaker",
+  "description": "Convert Hindi from pictures, document photos, or handwritten images to KrutiDev 010 text for Adobe PageMaker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
